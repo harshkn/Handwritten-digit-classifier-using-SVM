@@ -7,3 +7,7 @@ http://www.academia.edu/1161261/Handwritten_Digit_Classification_using_Support_V
 I used the data from the below link 
 http://cis.jhu.edu/~sachin/digit/digit.html
 
+Confusion Matrix  for 700 training sample and 300 test samples per digit. 
+
+
+
