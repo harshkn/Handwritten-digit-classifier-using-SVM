@@ -8,7 +8,9 @@ I used the data from the link below.
 http://cis.jhu.edu/~sachin/digit/digit.html
 
 Confusion Matrix  for 700 training sample and 300 test samples per digit. 
-https://github.com/harshkn/Handwritten-digit-classifier-using-SVM/blob/master/Screen%20Shot%202015-09-15%20at%2012.09.05.png 
+
+![alt text](https://raw.githubusercontent.com/harshkn/HandwrittenDigitClassifier/master/confusionmatrix.png "Confusion Matrix")
+
 
 
 
