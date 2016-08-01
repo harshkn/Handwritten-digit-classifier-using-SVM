@@ -7,6 +7,8 @@ http://www.academia.edu/1161261/Handwritten_Digit_Classification_using_Support_V
 I used the data from the link below. 
 http://cis.jhu.edu/~sachin/digit/digit.html
 
+Accuracy is 84%
+
 Confusion Matrix  for 700 training sample and 300 test samples per digit. 
 
 ![alt text](https://raw.githubusercontent.com/harshkn/HandwrittenDigitClassifier/master/confusionmatrix.png "Confusion Matrix")
