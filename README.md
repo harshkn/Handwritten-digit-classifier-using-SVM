@@ -11,7 +11,7 @@ Accuracy is 84%
 
 Confusion Matrix  for 700 training sample and 300 test samples per digit. 
 
-![alt text](https://raw.githubusercontent.com/harshkn/HandwrittenDigitClassifier/master/confusionmatrix.png "Confusion Matrix")
+![Confusion Matrix](https://raw.githubusercontent.com/harshkn/HandwrittenDigitClassifier/master/confusionmatrix.png "Confusion Matrix")
 
 
 
